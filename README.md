@@ -1,4 +1,3 @@
-## sec-exhibits-ner
-#### Purpose
+## Learning to use NER / NLTK on SEC Exhibits
 
-Ad hoc fin377 project
+The initial goal is to utilize this in research on Exhibit 10 filings to systematically understand contract parties and relationship specifics. 
