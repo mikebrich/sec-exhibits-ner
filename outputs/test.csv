@@ -1,0 +1,369 @@
+file,sentence,entities,verbs,subjects,subj_verb_linkages,random_num
+inputs\ex10-11.txt,"
+EX-10
+2
+ex10-11.txt
+CFC INTERNATIONAL, INC. - CONTRACT ADDENDUM
+
+                                  ADDENDUM TO
+                    PURCHASE AGREEMENT - DATED MARCH 1, 2001
+
+This  Agreement  (the  ""Addendum""),  effective  October  15,  2002,  between CFC
+International,   a  Delaware   corporation,   (""CFC""),   and  Baxter  Healthcare
+Corporation, a Delaware corporation, and its successors,  affiliates and assigns
+(""Baxter""),   amends  the  Purchase  Agreement  (""Agreement"")  between  the  two
+companies dated March 1, 2001.","['CFC', 'INC.', 'CONTRACT', 'AGREEMENT', 'DATED', 'CFC International', 'Delaware', 'Baxter Healthcare Corporation', 'Delaware', 'Purchase']","['DATED', 'amends', 'dated']",['INTERNATIONAL'],[],0.498659581973394
+inputs\ex10-11.txt,1.,[],[],[],[],0.15130276498867345
+inputs\ex10-11.txt,"General Provisions
+----------------------
+
+All ""terms and  conditions"" of the original  Agreement will remain  effective as
+stated in the Agreement with only the specific  revisions as stated below.",[],"['remain', 'stated', 'stated']",['Provisions'],[],0.3143780444008044
+inputs\ex10-11.txt,"This
+addendum applies to CFC products B10EK black and B5603AB black.","['CFC', 'B10EK', 'B5603AB']",['applies'],['addendum'],"['addendum', 'applies']",0.1266452008334611
+inputs\ex10-11.txt,"2.0  Distribution
+-----------------
+
+Buyer agrees to purchase foil  requirements for current users,  which are wholly
+owned  subsidiaries  of Baxter  Healthcare  Corporation.","['Buyer', 'Baxter Healthcare Corporation']","['agrees', 'purchase', 'owned']","['Buyer', 'which']",[],0.217432405307588
+inputs\ex10-11.txt,"Other locations can be
+added by mutual agreement of both parties.",[],['added'],[],[],0.9152809019775976
+inputs\ex10-11.txt,"3.0  Shipment of Products
+-------------------------
+
+Seller will ship  Products  F.O.B.","['Products', 'Seller', 'Products']",['ship'],"['Shipment', 'Seller']",[],0.9063949616787373
+inputs\ex10-11.txt,"Seller's  manufacturing  facilities - either
+Chicago Heights, IL.","['Seller', 'Chicago Heights', 'IL']",[],[],[],0.41101865484946787
+inputs\ex10-11.txt,"USA or Goppingen, Germany.","['Goppingen', 'Germany']",[],[],[],0.32715323946746466
+inputs\ex10-11.txt,"4.0  Price for Products
+-----------------------
+
+CFC will reduce the cost structure of black B10EK and black B5603AB as stated in
+Exhibit 1 (new price list).","['CFC', 'B10EK', 'B5603AB']","['reduce', 'stated']",['Price'],[],0.7402651913568628
+inputs\ex10-11.txt,"Products shipped from Chicago Heights will be billed
+in U.S. dollars; products shipped from Germany will be billed in Euros.","['Chicago', 'U.S.', 'Germany', 'Euros']","['shipped', 'billed', 'shipped', 'billed']",[],[],0.11350537687811535
+inputs\ex10-11.txt,"10.0  Term
+----------
+
+The addendum will extend the contract until February 28, 2007.",[],['extend'],['addendum'],[],0.3957594876711694
+inputs\ex10-11.txt,"13.0  Other Provisions
+----------------------
+
+Section 13.2 is deleted for B10EK and B5603AB.","['B10EK', 'B5603AB']",['deleted'],[],[],0.5848763972215479
+inputs\ex10-11.txt,"Baxter Healthcare Corporation               CFC International, Inc.
+
+---------------------------                  ---------------------------
+Dave Valentini                               Greg M. Jehlik
+Vice President, Purchasing/Supplier          President & Chief Operating Officer
+Management
+Date:                                         Date:
+
+----------------------------
+Mike Gatling
+Corporate Vice President, Global
+Manufacturing Operations
+Date:
+
+----------------------------
+Maria Johnson
+Vice President of Operations,
+Intercontinental
+Date:","['Baxter', 'Healthcare Corporation', 'CFC International', 'Valentini Greg', 'Jehlik', 'Corporate', 'Global Manufacturing Operations Date', 'Maria Johnson', 'Operations', 'Intercontinental']",[],[],[],0.5418539589659079
+inputs\ex10.txt,"
+EX-10
+4
+ex10.txt
+CFC INTERNATIONAL, INC.-BAXTER PURCHASE AGREEMENT
+
+Exhibit 10.9
+
+
+                               PURCHASE AGREEMENT
+
+         This Agreement, effective March 1, 2001 is between CFC International, a
+Delaware corporation, with offices at 500 State Street, Chicago Heights,
+Illinois 60411 (""Seller"") and Baxter Healthcare Corporation, a Delaware
+corporation, with offices at One Baxter Parkway, Deerfield, Illinois 60015 on
+behalf or its self and its affiliates (entities controlling, controlled by, or
+under common control with Baxter)(""Buyer"").","['CFC', 'PURCHASE', 'CFC International', 'Delaware', 'State Street', 'Chicago Heights', 'Illinois', 'Seller', 'Baxter Healthcare Corporation', 'Delaware', 'One Baxter Parkway', 'Deerfield', 'Illinois', 'Baxter']","['Exhibit', 'controlling', 'controlled']","['INTERNATIONAL', 'AGREEMENT', '2001', 'entities']",[],0.14019322784618782
+inputs\ex10.txt,"1.0 Background
+
+
+         1.1 Seller produces hot stamping foil which conforms and meets the
+Specification Requirements submitted, accepted and in Seller's possession for
+the Specification numbers listed attached in the Exhibit A., hereafter referred
+to as ""Products"".","['Seller', 'Requirements', 'Seller', 'Exhibit']","['produces', 'stamping', 'conforms', 'meets', 'submitted', 'accepted', 'listed', 'attached', 'referred']","['Seller', 'which', 'hereafter']",[],0.995708269143124
+inputs\ex10.txt,"Product Specifications may be revised from time to time and
+new Specifications and numbers added by mutual agreement between parties.","['Product', 'Specifications']","['revised', 'added']",[],[],0.08116503757613214
+inputs\ex10.txt,"Buyer
+requires foil for use in printing flexible packaging.",['Buyer'],"['requires', 'printing']",['Buyer'],"['Buyer', 'requires']",0.6585909227092371
+inputs\ex10.txt,"2.0 Distribution
+
+
+         2.1 Subject to the terms and conditions of this Agreement, Seller shall
+manufacture and sell Products to Buyer, and Buyer shall purchase Products for
+manufacture into goods for use or resale in any country in the world.","['Seller', 'Buyer', 'Buyer']","['manufacture', 'sell', 'purchase']","['Seller', 'Buyer']",[],0.7725395921280259
+inputs\ex10.txt,"Buyer
+agrees to purchase all their global foiling requirements from seller, or as
+stated in Section 13.2.",['Buyer'],"['agrees', 'purchase', 'stated']",['Buyer'],"['Buyer', 'agrees']",0.3772526958908654
+inputs\ex10.txt,"3.0 Shipment of Products
+
+
+         3.1 Seller will ship Products, F.O.B.",['Seller'],['ship'],['Seller'],[],0.2822083173445622
+inputs\ex10.txt,"Seller's facility, freight
+collect, to locations specified by Buyer and via carriers specified by Buyer.","['Seller', 'Buyer', 'Buyer']","['specified', 'specified']",[],[],0.03812600460195681
+inputs\ex10.txt,"3.2 Seller agrees to maintain negotiated consignment inventory at
+Baxter's locations per specific plant consignment agreements.","['Seller', 'Baxter']","['agrees', 'maintain', 'negotiated']",['Seller'],"['Seller', 'agrees']",0.2503500936944574
+inputs\ex10.txt,"4.0 Prices
+
+
+         4.1 Seller will sell Product to Buyer and Buyer agrees to buy the
+Product from Seller.","['Seller', 'Buyer', 'Buyer', 'Seller']","['sell', 'agrees', 'buy']",['Prices'],[],0.4771019008968995
+inputs\ex10.txt,"Prices shall be firm during the first year of this
+Agreement (March1, 2001 through February 28th, 2002) as per the attached Exhibit
+A.",['March1'],[],['Prices'],"['Prices', 'firm']",0.5028944463474339
+inputs\ex10.txt,"However, after the first year: Buyer's pricing will be adjusted by one half
+of the raw material price change if greater than 5% adjusted for the ""Foil
+Composition Percentage"" consisting of the following components:
+
+
+                       Foil Composition     US 2001 Raw       Germany 2001
+Components                Percentage        Material USD    Raw Material Euro
+----------                ----------        ------------    -----------------
+Carrier Film                  40%         $1.63 per pound     $ 1.79 per pd
+Solvent                       10%         $ .41 per pound     $ .45 per pd
+Pigment/Plasticizer/Ink       15%        (To be negotiated   (To be negotiated
+Energy                        10%                if                  if
+Labor/Overhead                25%             excessive)          excessive)
+
+
+Any price changes will require a 30-day prior written notice, including written
+justification for the change.","['Buyer', 'Foil Composition Percentage', 'Foil Composition US', 'Components Percentage', 'Carrier Film', 'Energy']","['adjusted', 'adjusted', 'consisting', 'following', 'negotiated', 'negotiated', 'require', 'written', 'including', 'written']","['%', 'changes']",[],0.6708361637624024
+inputs\ex10.txt,"Both CFC International and Baxter Healthcare will
+track price changes in the polypropylene and polyester industry and use these
+changes as a guide for any Product price increases or decreases.","['CFC International', 'Baxter Healthcare']","['track', 'use']",['International'],"['International', 'track']",0.7803311426805974
+inputs\ex10.txt,"Formula Cost Increase/Decrease:
+
+Percentage Increase = Percentage of Increase Materials 2001 Base Period x one
+half (.5) the Material (above 5%) - cost increase x percentage breakdown of
+costs.","['Formula', 'Cost', 'Increase', 'Increase', 'Period', 'Material']",[],[],[],0.6252011303256643
+inputs\ex10.txt,"New Unit Cost = Percentage Increase plus 100% x unit cost *Note: Same formula to
+be applied for cost decreases on materials.","['New', 'Unit Cost']",['applied'],['Increase'],[],0.482350566324677
+inputs\ex10.txt,"Example:
+
+Carrier film increases 30% (30% - 5% = 25%)
+Percentage Increase = 25% x .5 x .40 = 5%
+New Unit Price = 105% x .38 (Unit Cost) = $.399
+
+
+         4.2 Seller and Buyer will work to reduce non-value added costs
+throughout the duration of our contract.","['Increase', 'New Unit', 'Unit Cost', 'Seller', 'Buyer']","['increases', 'work', 'reduce', 'added']","['film', 'Cost', 'Seller']",[],0.03284541398911067
+inputs\ex10.txt,"Cost reduction efforts will include
+twice yearly meetings to review potential cost elimination ideas, implement
+strategies and identify future projects.",['Cost'],"['include', 'review', 'identify']",['efforts'],"['efforts', 'include']",0.1984142105104535
+inputs\ex10.txt,"Our goal will be to reduce our total
+cost by 5% per year which can be measured in, quantifiable dollars.",[],"['reduce', 'measured']",['goal'],[],0.6284530993582116
+inputs\ex10.txt,"4.3 CFC agrees to reduce contract pricing 2.5% per year for the
+second year of this Agreement and an additional 2.5% during the third year of
+this Agreement effective March1, 2002 and 2003 with orders shipped on or after
+the anniversary date.","['CFC', 'March1']","['agrees', 'reduce', 'shipped']",['CFC'],"['CFC', 'agrees']",0.9134923723431514
+inputs\ex10.txt,"This price reduction applies to all locations except
+Mexico, and Latin America (Mexico, Brazil, and Colombia).","['Mexico', 'Latin America', 'Mexico', 'Brazil', 'Colombia']",['applies'],['reduction'],"['reduction', 'applies']",0.7055792576291748
+inputs\ex10.txt,"5.0 Payment
+
+         5.1 The terms of payment for the Product purchased by Buyer under this
+Agreement shall be net 30 days from invoice date.",['Buyer'],['purchased'],"['Payment', 'terms']",[],0.18878742478664334
+inputs\ex10.txt,"6.0 Purchases and Delivery
+
+
+         6.1 During the terms of this agreement, Seller shall sell and Buyer
+shall purchase, on an annualized basis, Buyer's requirements for Products
+(Domestic and International locations).","['Delivery', 'Seller', 'Buyer', 'Buyer', 'Products', 'Domestic', 'International']","['sell', 'purchase', 'annualized']","['6.1', 'Seller', 'Buyer']",[],0.5430124521426479
+inputs\ex10.txt,"6.2 Any delay in the performance of any of the duties or obligations of
+either party shall not be considered a breach of this Agreement and the time
+required for performance shall be extended for a period equal to the period of
+such delay, provided that such delay is caused by the acts of God, acts of the
+public enemy, insurrections, riots, labor disputes, including strikes, lockouts,
+or boycotts, fires, explosions, floods, droughts, or other unforeseeable causes
+beyond the control and without the fault or negligence of the party affected.",['God'],"['considered', 'required', 'extended', 'provided', 'caused', 'including', 'affected']",['acts'],[],0.0336790024516922
+inputs\ex10.txt,"The party so affected shall give prompt written notice to the other of such
+cause as rapidly as possible, and shall promptly notify the other when such
+cause has terminated.",[],"['give', 'written', 'notify', 'terminated']","['party', 'cause']","['party', 'give']",0.6723368774574573
+inputs\ex10.txt,"6.3 If Seller is unable to deliver for any such reason, Buyer may take
+all steps reasonably necessary to assure itself of sufficient supply of hot
+stamping foil, including committing to purchase more than necessary for the
+expected period of delay, if necessary, to obtain hot stamp foil at a reasonable
+price and when and where needed or obtain from another supplier if unavailable
+through seller.","['Seller', 'Buyer']","['deliver', 'take', 'assure', 'including', 'committing', 'purchase', 'expected', 'obtain', 'needed', 'obtain']","['Seller', 'Buyer']","['Buyer', 'take']",0.14234052325049595
+inputs\ex10.txt,"7.0 Quality Control
+
+
+         7.1 Seller warrants that the Products will be manufactured by Seller
+and shall meet the written Specification Requirements as described in the
+Specification Sheets and listed by Specification Number in Exhibit A.","['Products', 'Seller', 'Specification', 'Exhibit']","['manufactured', 'meet', 'written', 'described', 'listed']",[],[],0.6576452844293245
+inputs\ex10.txt,"Seller
+warrants the Products will meet any changes in the Specifications that the
+parties expressly agree to prior to such changes.","['Seller', 'Products']","['meet', 'agree']","['warrants', 'Products', 'parties']","['Products', 'meet']",0.8348123228826612
+inputs\ex10.txt,"7.2 All Products shall be subjected to a quality control inspection by
+Seller in accordance with Seller's current quality control standards and system.","['Seller', 'Seller']",['subjected'],[],[],0.8630534496604575
+inputs\ex10.txt,"Seller's quality control standards and systems have been reviewed by Buyer prior
+to the date of this Agreement.","['Seller', 'Buyer']",['reviewed'],[],[],0.4253526634870589
+inputs\ex10.txt,"7.3 Seller shall permit Buyer to review periodically its quality
+control procedures and records, and with a Seller representative present, to
+visit Seller's facilities at reasonable times, in order to assure satisfaction
+of the requirements of this Paragraph 7.0.","['Seller', 'Buyer', 'Seller', 'Seller']","['permit', 'review', 'visit', 'assure']",['Seller'],"['Seller', 'permit']",0.7011053884922469
+inputs\ex10.txt,"7.4 Buyer, at its discretion, may after delivery to it of Products,
+inspect and/or audit the products for integrity and adherence to the
+Specifications.",['Products'],"['inspect', 'audit']",[],"['Buyer', 'may']",0.14232561265062538
+inputs\ex10.txt,"If any Product fails to conform to the Specifications, Buyer may
+return the Product to Seller for credit or replacement, with all freight and
+out-of-pocket handling at Seller's expense.","['Buyer', 'Seller', 'Seller']","['fails', 'conform', 'return']","['Product', 'Buyer']","['Buyer', 'return']",0.15600241379318114
+inputs\ex10.txt,"8.0 Guarantee
+
+         8.1 All Products sold to Buyer under this Agreement are hereby
+guaranteed as set forth in Exhibit A (price and Specification Sheets in your
+possession.)","['Buyer', 'Exhibit']","['sold', 'guaranteed', 'set']",['Products'],[],0.580704581752065
+inputs\ex10.txt,"9.0 Warranty and Indemnification
+
+         9.1 Seller warrants that Products are in compliance with the
+Specifications, and that the manufacture and sale of the Products do not and
+will not infringe any patent.",[],"['do', 'infringe']","['Products', 'manufacture']",[],0.07432571554610701
+inputs\ex10.txt,"To the extent permitted by law, Seller
+specifically disclaims any other express or implied warranties.",['Seller'],"['permitted', 'disclaims', 'implied']",['Seller'],"['Seller', 'disclaims']",0.2256675048930903
+inputs\ex10.txt,"Seller does not
+make any other warranties or representations except as specifically set forth in
+this Agreement and in the labeling of the Products.",['Seller'],"['make', 'set']",['Seller'],"['Seller', 'make']",0.9571710050574339
+inputs\ex10.txt,"In no event shall Seller be
+liable for indirect, incidental or consequential damages.",['Seller'],[],['Seller'],"['Seller', 'liable']",0.30551930796802296
+inputs\ex10.txt,"9.2 Seller will defend, indemnify and hold Buyer harmless with respect
+to any liability of Buyer for infringement of any patent arising out of the
+purchase or use of Products supplied to Buyer under this Agreement.","['Seller', 'Buyer', 'Buyer', 'Buyer']","['defend', 'indemnify', 'hold', 'arising', 'supplied']",['Seller'],"['Seller', 'defend']",0.5308635681564196
+inputs\ex10.txt,"Buyer shall
+promptly communicate to Seller any claim of infringement it receives.","['Buyer', 'Seller']","['communicate', 'receives']","['Buyer', 'it']","['Buyer', 'communicate']",0.9201682298604554
+inputs\ex10.txt,"Buyer will
+cooperate fully with Seller in defending or otherwise resolving any such charge
+of infringement.","['Buyer', 'Seller']","['cooperate', 'defending', 'resolving']",['Buyer'],"['Buyer', 'cooperate']",0.5695321631614616
+inputs\ex10.txt,"Seller will have full control of the defense of any litigation
+brought against Buyer for alleged infringement by Products supplied under this
+agreement.","['Seller', 'Buyer']","['have', 'brought', 'supplied']",['Seller'],"['Seller', 'have']",0.16980274851627852
+inputs\ex10.txt,"Buyer, at its expense, shall be entitled to be represented by its own
+counsel in any litigation which is controlled by Seller.","['Buyer', 'Seller']","['entitled', 'represented', 'controlled']",[],[],0.5786615745507944
+inputs\ex10.txt,"Seller agrees to bear
+all costs and expenses of litigation, including its own attorney fees in
+connection with any charge of infringement by the Products supplied under this
+Agreement, and Seller shall reimburse Buyer for any disbursement made by Buyer
+in satisfaction of any final judgment issued in any such litigation.","['Seller', 'Seller', 'Buyer', 'Buyer']","['agrees', 'bear', 'including', 'supplied', 'reimburse', 'made', 'issued']","['Seller', 'Seller']","['Seller', 'agrees']",0.3424157440641341
+inputs\ex10.txt,"10.0 Term of Agreement
+
+         10.1 This Agreement shall commence on March 1, 2001 and shall continue
+for a period of three (3) years through February 28, 2004, (""Term""), unless
+terminated in accordance with Section 11.",[],"['commence', 'continue', 'terminated']",['Agreement'],[],0.9374569390216811
+inputs\ex10.txt,"11.0 Termination
+
+         11.1 Either party may terminate this Agreement for any material breach
+of this Agreement by the other party, by giving thirty (30) days prior written
+notice to the other party that such termination shall take effect if such breach
+is not cured as of the expiration of said thirty (30) day period.",[],"['terminate', 'giving', 'written', 'take', 'cured', 'said']","['party', 'termination']",[],0.6981612874594326
+inputs\ex10.txt,"11.2 Either party may terminate this Agreement effective immediately
+upon the giving of written notice, if the other party shall file a petition in
+bankruptcy, or shall be adjudicated a bankrupt, or shall take advantage of the
+insolvency laws of any state, or shall make an assignment for the benefit of
+creditors, or shall be voluntarily or involuntarily dissolved, or shall have a
+receiver, trustee or other court officer appointed for its property.",[],"['terminate', 'written', 'file', 'adjudicated', 'take', 'make', 'dissolved', 'have', 'appointed']","['party', 'party']","['party', 'terminate']",0.5910218328063895
+inputs\ex10.txt,"Seller
+shall deliver and Buyer shall pay for all Products ordered by Buyer under
+purchase orders issued by Buyer prior to the date of such written notice of
+termination and not canceled by Buyer.","['Seller', 'Buyer', 'Buyer', 'Buyer', 'Buyer']","['deliver', 'pay', 'ordered', 'issued', 'written', 'canceled']","['Seller', 'Buyer']","['Seller', 'deliver']",0.8537238850193477
+inputs\ex10.txt,"Further, such termination shall not
+relieve either party of any rights accrued and obligations incurred, but not yet
+satisfied, prior to termination of this Agreement.",[],"['relieve', 'accrued', 'incurred']","['termination', 'party', 'obligations']","['termination', 'relieve']",0.8474044036370726
+inputs\ex10.txt,"12.0 Effect of Termination
+
+         12.1 The termination of this Agreement, if such termination is for any
+reason except breach of this Agreement by Buyer, will not operate to relieve
+Seller from its obligation to deliver all Products ordered by Purchase orders of
+Buyer received by Seller prior to receipt of written notice of such termination.","['Buyer', 'Seller', 'Purchase', 'Buyer', 'Seller']","['operate', 'relieve', 'deliver', 'ordered', 'received', 'written']","['Effect', 'termination']",[],0.6596836697053914
+inputs\ex10.txt,"Such termination shall not relieve Buyer from accepting and paying for all
+orders in the production schedule.",['Such'],"['relieve', 'accepting', 'paying']",['termination'],"['termination', 'relieve']",0.48398789794192043
+inputs\ex10.txt,"13.0 Other Provisions
+
+         13.1 All sales of the Products by Seller to Buyer shall be subject to
+the terms, conditions and provisions of this Agreement and shall not be subject
+to the terms and conditions contained on any purchase order of Buyer or
+confirmation or invoice of Seller except insofar as any such purchase order or
+confirmation establishes (a) the quantity of Products, (b) the delivery date,
+and (c) delivery location of such Products.","['Seller', 'Buyer', 'Buyer', 'Seller']",['contained'],['Provisions'],[],0.7493447025067952
+inputs\ex10.txt,"13.2 If, during the term of this Agreement, Baxter receives a written
+offer with better pricing, terms and conditions or technology compatible with
+Baxter's requirements, from a supplier to supply products which are of like
+quality with any of the Products supplied hereunder, and which are deliverable
+in like quantities, Baxter will notify Seller within thirty (30) days after
+receipt from Baxter of such notice, Seller shall, at its option (i) agree upon
+such better pricing, terms and conditions, or technology, or (ii) permit Baxter
+to purchase from the other source during the time such other source offers
+Baxter better pricing, terms and conditions, or technology, and the quantities
+so purchased by Baxter shall be deducted from any quantities covered by this
+Agreement.","['Baxter', 'Baxter', 'Products', 'Baxter', 'Seller', 'Baxter', 'Seller', 'Baxter', 'Baxter']","['receives', 'written', 'supply', 'supplied', 'notify', 'agree', 'purchase', 'offers', 'purchased', 'deducted', 'covered']","['Baxter', 'which', 'which', 'Baxter', 'Seller', 'i', 'source']",[],0.1774131493274388
+inputs\ex10.txt,"13.3 This Agreement contains the entire agreement between the parties
+relating to the subject matter herein and all prior proposals, discussions, and
+writings by and between the parties and relating to the subject matter herein
+are superseded by this Agreement.",[],"['contains', 'relating', 'relating', 'superseded']",['Agreement'],[],0.47959581567404763
+inputs\ex10.txt,"None of the terms of this Agreement shall be
+deemed to be waived by either party or amended unless such a waiver or amendment
+is in writing and is signed by the party to be charged with such waiver or
+
+
+
+
+
+
+
+amendment, and such writing recites specifically that it is a waiver of, or
+amendment to, the terms of this Agreement.",[],"['deemed', 'waived', 'amended', 'signed', 'charged']","['waiver', 'recites', 'it']",[],0.44019582521745504
+inputs\ex10.txt,"13.4 All notices and demands required or permitted to be given or made
+pursuant to this Agreement shall conclusively be presumed for all purposes of
+this agreement to be given or made at the time the notice or demand is
+personally given or made, or at the time it is placed in an envelope and
+deposited in the United States mail, with sufficient postage prepaid, addressed
+as follows:
+
+     If to Buyer                                    If to Seller
+     -----------                                    ------------
+Vice President of Purchasing              Sr.Vice President, International Sales
+(I.V.","['United States', 'Buyer', 'Seller', 'Purchasing', 'International Sales']","['required', 'permitted', 'given', 'made', 'presumed', 'given', 'made', 'given', 'made', 'placed', 'deposited', 'prepaid', 'addressed', 'follows']",['postage'],[],0.3240008131135166
+inputs\ex10.txt,"Systems Division)                 CFC International
+Baxter Healthcare Corporation             500 State Street
+Route 120 and Wilson                      Chicago Heights, IL  60411
+Round Lake, IL  60073
+
+or to such other address as to which either party may notify the other.","['Systems', 'Division', 'CFC International Baxter Healthcare', 'State Street', 'Wilson Chicago Heights']",['notify'],['party'],[],0.7664655708079386
+inputs\ex10.txt,"13.5 This agreement shall be binding upon and inure to the benefit of
+the parties hereto, their successors and assigns.",[],['binding'],['agreement'],[],0.18048197766284968
+inputs\ex10.txt,"This Agreement shall be
+assignable by Buyer to any of its affiliates without the consent of Seller, by
+either party with the written consent of the other, or by either party without
+the consent of the other to purchaser of all or substantially all of the assets
+of its business to which this Agreement relates.","['Buyer', 'Seller']","['written', 'relates']","['Agreement', 'Agreement']","['Agreement', 'assignable']",0.9013798049993913
+inputs\ex10.txt,"13.6 This Agreement is deemed to have been entered into in the State of
+Illinois and its interpretations, construction, and the remedies for its
+enforcement of breach are to be applied pursuant to and in accordance with the
+laws of the State of Illinois.","['Illinois', 'Illinois']","['deemed', 'entered', 'applied']",[],[],0.7745260729376137
+inputs\ex10.txt,"13.7 In the event that a court of competent jurisdiction holds that
+particular provisions or requirements of this Agreement are in violation of any
+law, such provisions or requirements shall be enforced and shall remain in full
+force and effect to the extent they are not in violation of any such law or not
+otherwise unenforceable, and all other provisions and requirements of this
+Agreement shall remain in full force and effect.",[],"['holds', 'enforced', 'remain', 'remain']","['court', 'provisions', 'they', 'provisions']",[],0.1307413569648298
+inputs\ex10.txt,"In Witness Whereof, the parties have caused this Agreement to be executed by
+their authorized representatives.",['Witness Whereof'],"['caused', 'executed']",['parties'],"['parties', 'caused']",0.036323299078196536
+inputs\ex10.txt,"BAXTER HEALTHCARE CORP             CFC INTERNATIONAL
+
+
+By:_____________________________             By:_____________________________
+        Dave Valentini                               Robert E.   Jurgens
+Title:  V.P.","['BAXTER', 'HEALTHCARE', 'CORP', 'CFC', 'Dave Valentini', 'Robert E. Jurgens Title']",[],[],[],0.7137063802152698
+inputs\ex10.txt,"Purchasing                    Title:  Sr. Vice President,
+                                                      International Sales
+Date:___________________________             Date:___________________________
+
+Date:___________________________             Date:___________________________","['Title', 'International Sales Date', '___________________________ Date', '___________________________ Date', '___________________________ Date']",['Purchasing'],[],[],0.02519221944647909
