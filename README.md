@@ -28,12 +28,18 @@ rm -r -fo .git
 # give this one a slightly diff name by modifying the environment.yml file)
 conda env create -f environment.yml
 
-# to do any work with these files 
+# Add that environment's python kernel to jupyterlab via the following code. 
+# This will also download the `spacy` model
 
-# step 1: activate environment
-conda activate nlp
+conda activate nlp_stanza 
+conda install ipykernel
+python -m ipykernel install --user --name=nlp_stanza --display-name "NLP Stanza Env"
+python -m spacy download en_core_web_sm
+conda deactivate
 
-# step2: open any IDE you want 
-jupyter lab 
+# open jupyterlab and then "multi_doc_test" file for further instructions 
+
+jupyter lab  
+
 ```
 
