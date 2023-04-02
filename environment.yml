@@ -1,0 +1,22 @@
+name: nlp_stanza
+
+channels:
+  - conda-forge
+  - defaults
+  - stanfordnlp
+dependencies:
+  - python=3.9
+  - pip
+  - setuptools
+  - numpy
+  - wheel
+  - pandas 
+  - spacy
+  - pip:
+    - nltk
+    - tqdm
+    - bs4
+    - stanza
+    
+# - en-core-web-sm
+#- textacy
